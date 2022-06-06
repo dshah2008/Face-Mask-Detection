@@ -1,6 +1,6 @@
-train: ../mm894_facemask_detection/dataset/images/train
-val: ../mm894_facemask_detection/dataset/images/val
-test: ../mm894_facemask_detection/dataset/images/test
+train: ../Face-Mask-Detection/dataset/images/train
+val: ../Face-Mask-Detection/dataset/images/val
+test: ../Face-Mask-Detection/dataset/images/test
 
 # number of classes
 nc: 2
