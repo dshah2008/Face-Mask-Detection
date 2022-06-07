@@ -1,4 +1,4 @@
-# Face-Mask-Detection with Yolov5
+# Face Mask Detection with Yolov5
 
 ## A. Overview 
 \
